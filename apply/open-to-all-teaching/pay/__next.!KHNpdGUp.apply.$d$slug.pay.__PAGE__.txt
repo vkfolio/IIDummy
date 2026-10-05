@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[99377,["/_next/static/chunks/3l6bwague00l7.js","/_next/static/chunks/0smsj2x63s2sm.js","/_next/static/chunks/2kp5np03icak7.js","/_next/static/chunks/002__8vz2ng3k.js","/_next/static/chunks/1wr1p3dwil1eq.js","/_next/static/chunks/35se347fof8c1.js"],"MockPayment"]
+4:I[36953,["/_next/static/chunks/3l6bwague00l7.js"],"OutletBoundary"]
+8:I[36953,["/_next/static/chunks/3l6bwague00l7.js"],"ViewportBoundary"]
+9:I[36953,["/_next/static/chunks/3l6bwague00l7.js"],"MetadataBoundary"]
+7:X
+17:X
+17:C
+0:{"buildId":"SsNgCtRDI8qYeqxpLoHOf","data":[{"rsc":["$","$1","c",{"children":[["$","$2",null,{"children":["$","$L3",null,{"program":{"id":"p-oat","slug":"open-to-all-teaching","title":"Open to All Teaching","tagline":"Sit in on selected IIT Hyderabad courses, streamed live from the classroom.","summary":"Selected regular IITH courses, live-streamed each semester for working professionals, faculty and students across India.","area":"teaching","level":"short-course","mode":"live-online","department":"Centre for Continuing Education","overview":["Through Open to All Teaching, IIT Hyderabad streams selected courses live from its classrooms each semester. You attend the same lectures as IITH students and can take the course assessments for a certificate."],"highlights":[{"title":"Real IITH classrooms","body":"The same lectures as on-campus students."},{"title":"Choose your courses","body":"A new list of courses every semester."}],"outcomes":["Learn from the regular IITH curriculum","Earn a course completion certificate"],"audience":"Working professionals, faculty members and students who want to reskill or upskill.","duration":"One semester","weeklyEffort":"3 to 6 hours a week per course","startDate":"2027-01-04","applicationDeadline":"2026-12-22","feeINR":15000,"applicationFeeINR":0,"feeNote":"Per course, plus 18% GST.","applicationsOpen":true,"curriculum":[{"title":"Course list for January 2027","duration":"Semester","summary":"Published in November.","topics":["Computer science","Electrical engineering","Mathematics","Design"]}],"tools":[],"eligibility":["Open to all. Some courses list prerequisites."],"admissionSteps":[{"title":"Choose courses","body":"From the published list.","date":"2026-12-22"},{"title":"Pay and join","body":"Streaming links arrive by email.","date":"2027-01-04"}],"faqs":[{"question":"Will I get an IIT Hyderabad certificate?","answer":"Yes. Learners who meet the attendance and assessment requirements receive a certificate issued by the Centre for Continuing Education, IIT Hyderabad."},{"question":"Can I attend if I miss a live class?","answer":"Every live session is recorded and available on the learning platform within 24 hours."}],"facultyIds":["f-iyer","f-nair"],"months":4,"audiences":["students","professionals","faculty"],"popular":true,"features":["Real IITH classrooms","Choose your courses"],"projects":[{"title":"Course assessments","body":"The same assignments and exams as on-campus students."}],"careerOutcomes":{"roles":["Any role that needs new technical depth"],"skills":["Depends on the courses you choose"],"stats":[{"value":"20+","label":"courses streamed each semester (sample)"}]},"batches":[{"code":"OAT-JAN27","startDate":"2027-01-04","capacity":500,"enrolled":233,"mode":"Live online"}],"liveSchedule":"As per the IITH class timetable"}}]}],[["$","script","script-0",{"src":"/_next/static/chunks/35se347fof8c1.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$2",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pay the application fee · IITH Online concept"}],["$","meta","1",{"name":"description","content":"Concept prototype of an online programs portal, prepared for a proposal to IIT Hyderabad. Not an official IITH website."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"property":"og:title","content":"Pay the application fee · IITH Online concept"}],["$","meta","4",{"property":"og:description","content":"Concept prototype of an online programs portal, prepared for a proposal to IIT Hyderabad. Not an official IITH website."}],["$","meta","5",{"property":"og:site_name","content":"IITH Online (concept prototype)"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"]}]}]}],"$L13"]}],"isPartial":"$@14","staleTime":"$7","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$7","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$7","varyParams":"$17"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$7","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[43400,["/_next/static/chunks/3l6bwague00l7.js"],"IconMark"]
+1f:I[94061,["/_next/static/chunks/3l6bwague00l7.js"],"default"]
+20:I[43036,["/_next/static/chunks/3l6bwague00l7.js"],"default"]
+5:null
+a:["$","meta","6",{"property":"og:locale","content":"en_IN"}]
+b:["$","meta","7",{"property":"og:image","content":"http://localhost:3000/generated/og-default.webp"}]
+c:["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}]
+d:["$","meta","9",{"name":"twitter:title","content":"Pay the application fee · IITH Online concept"}]
+e:["$","meta","10",{"name":"twitter:description","content":"Concept prototype of an online programs portal, prepared for a proposal to IIT Hyderabad. Not an official IITH website."}]
+f:["$","meta","11",{"name":"twitter:image","content":"http://localhost:3000/generated/og-default.webp"}]
+10:["$","link","12",{"rel":"icon","href":"/favicon.png"}]
+11:["$","link","13",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]
+12:["$","$L1e","14",{}]
+13:["$","meta",null,{"name":"next-size-adjust","content":""}]
+15:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1d:true
+7:300
+7:C
+1c:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+1b:"$undefined"
+6:"$undefined"
