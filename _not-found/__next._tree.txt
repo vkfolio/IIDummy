@@ -1,2 +1,4 @@
-:HL["/_next/static/chunks/0ut6vhfiq0p9g.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"n40GXV3XLDxnuCjFn7m5M"}
+:HL["/_next/static/chunks/1-i6k8iux9n6t.css","style"]
+:HL["/brand/iith-mark.png","image"]
+:HL["/brand/iith-mark-reversed.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"VjBKCal9F_UYkLzyTpIIZ"}
