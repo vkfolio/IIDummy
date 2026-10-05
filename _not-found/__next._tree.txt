@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2lttgksvzs3yy.css","style"]
+:HL["/_next/static/chunks/156vyyzljpkow.css","style"]
 :HL["/brand/iith-mark.png","image"]
 :HL["/brand/iith-mark-reversed.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"SsNgCtRDI8qYeqxpLoHOf"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"7qcgvgK9Q8eFNbk-JL5HW"}
