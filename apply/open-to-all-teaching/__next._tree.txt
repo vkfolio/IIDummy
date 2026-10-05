@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/156vyyzljpkow.css","style"]
+:HL["/_next/static/chunks/0xygayx0ck48s.css","style"]
 :HL["/_next/static/media/0e63149d5897f52c-s.p.19jsrx7exjbdt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/4ecb3f5dfe34ba3a-s.p.1d0gcmnl_dzdu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/5246515474daf346-s.p.14m725e1f886h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -11,4 +11,4 @@
 :HL["/brand/iith-mark.png","image"]
 :HL["/brand/iith-mark-reversed.png","image"]
 :HL["/brand/iith-logo-horizontal-reversed.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4128,"slots":{"children":{"name":"apply","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"open-to-all-teaching","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"7qcgvgK9Q8eFNbk-JL5HW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4128,"slots":{"children":{"name":"apply","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"open-to-all-teaching","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"XMKr9qCClwBn52CeWVYJf"}
