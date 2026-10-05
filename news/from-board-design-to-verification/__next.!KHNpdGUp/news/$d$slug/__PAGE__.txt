@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[68179,["/IIDummy/_next/static/chunks/3l6bwague00l7.js","/IIDummy/_next/static/chunks/3on6wpmyxykwg.js","/IIDummy/_next/static/chunks/2kp5np03icak7.js","/IIDummy/_next/static/chunks/2hwrpaqqt68pt.js"],""]
+3:I[36953,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[36953,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"ViewportBoundary"]
+9:I[36953,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"MetadataBoundary"]
+a:I[43400,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"IconMark"]
+c:I[94061,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"default"]
+d:I[43036,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"default"]
+:HL["/IIDummy/generated/semiconductors.webp","image"]
+7:X
+f:X
+f:C
+0:{"buildId":"Ec8nyHCDT7Skl7UDLUXY9","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"container-page py-12 md:py-20","children":[["$","div",null,{"className":"mx-auto max-w-(--container-prose)","children":[["$","$L2",null,{"href":"/news","className":"btn-ghost text-small","children":"All news"}],["$","p",null,{"className":"mt-8 text-small text-slate","children":["Learner story",", ","12 Sept 2026"]}],["$","h1",null,{"className":"t-h1 mt-2","children":"From board design to verification in six months"}],["$","p",null,{"className":"t-lead mt-4","children":"How one engineer used the VLSI program to change roles."}]]}],["$","div",null,{"className":"relative mx-auto my-10 aspect-[16/9] max-w-4xl overflow-hidden rounded-xs bg-mist","children":["$","img",null,{"src":"/IIDummy/generated/semiconductors.webp","alt":"","className":"absolute inset-0 size-full object-cover"}]}],["$","div",null,{"className":"prose-iith mx-auto","children":[["$","p","0",{"children":"Divya Raghavan spent four years designing circuit boards before deciding to move into chip verification."}],["$","p","1",{"children":"She credits the program’s UVM labs and lab residency for preparing her for technical interviews."}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0e0f2b","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"From board design to verification in six months · IIT Hyderabad Online"}],["$","meta","1",{"name":"description","content":"How one engineer used the VLSI program to change roles."}],["$","meta","2",{"property":"og:title","content":"From board design to verification in six months · IIT Hyderabad Online"}],["$","meta","3",{"property":"og:description","content":"How one engineer used the VLSI program to change roles."}],["$","meta","4",{"property":"og:site_name","content":"IIT Hyderabad Online"}],["$","meta","5",{"property":"og:locale","content":"en_IN"}],["$","meta","6",{"property":"og:image","content":"https://vkfolio.github.io/IIDummy/IIDummy/generated/og-default.webp"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"From board design to verification in six months · IIT Hyderabad Online"}],["$","meta","9",{"name":"twitter:description","content":"How one engineer used the VLSI program to change roles."}],["$","meta","10",{"name":"twitter:image","content":"https://vkfolio.github.io/IIDummy/IIDummy/generated/og-default.webp"}],["$","link","11",{"rel":"icon","href":"/IIDummy/favicon.svg"}],["$","$La","12",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+12:true
+7:300
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"

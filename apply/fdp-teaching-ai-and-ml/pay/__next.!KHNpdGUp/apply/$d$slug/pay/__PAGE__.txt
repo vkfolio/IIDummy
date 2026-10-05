@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[99377,["/IIDummy/_next/static/chunks/3l6bwague00l7.js","/IIDummy/_next/static/chunks/3on6wpmyxykwg.js","/IIDummy/_next/static/chunks/2kp5np03icak7.js","/IIDummy/_next/static/chunks/2hwrpaqqt68pt.js","/IIDummy/_next/static/chunks/2dcnudfsc4qvb.js"],"MockPayment"]
+4:I[36953,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"OutletBoundary"]
+8:I[36953,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"ViewportBoundary"]
+9:I[36953,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"MetadataBoundary"]
+7:X
+14:X
+14:C
+0:{"buildId":"Ec8nyHCDT7Skl7UDLUXY9","data":[{"rsc":["$","$1","c",{"children":[["$","$2",null,{"children":["$","$L3",null,{"program":{"id":"p-fdp-ai","slug":"fdp-teaching-ai-and-ml","title":"FDP: teaching AI and machine learning","tagline":"A two-week faculty development program for engineering college teachers.","summary":"For faculty preparing to teach AI and ML: course design, lab exercises, assessment and the maths students struggle with.","area":"teaching","level":"fdp","mode":"live-online","department":"Artificial Intelligence","overview":["Two intensive weeks of live sessions with IITH faculty, followed by a month of mentoring as you prepare your own course."],"highlights":[{"title":"Ready-to-use labs","body":"Take home notebooks and assignments for your own course."},{"title":"AICTE-recognised format","body":"Counts towards faculty development requirements."}],"outcomes":["Design an AI or ML course for undergraduates","Run practical lab sessions","Assess fairly in the age of AI assistants"],"audience":"Faculty members at engineering colleges and universities.","duration":"2 weeks","weeklyEffort":"Full time, mornings and afternoons","startDate":"2026-12-07","applicationDeadline":"2026-11-20","seats":100,"feeINR":5000,"applicationFeeINR":0,"feeNote":"Plus 18% GST.","applicationsOpen":true,"curriculum":[{"title":"Course design","duration":"Week 1","summary":"Outcomes, syllabi and labs.","topics":["Syllabus","Labs"]},{"title":"Teaching and assessment","duration":"Week 2","summary":"Pedagogy and fair assessment.","topics":["Assessment","AI tools in class"]}],"tools":["Python","Jupyter"],"eligibility":["Faculty members at AICTE or UGC recognised institutions."],"admissionSteps":[{"title":"Apply online","body":"About 15 minutes. Upload your degree certificate and a short statement.","date":"2026-11-20"},{"title":"Profile review","body":"Faculty review your academic and work background. Some programs add a short online test."},{"title":"Offer letter","body":"Selected applicants receive an offer by email and in their applicant dashboard.","date":"2026-11-25"},{"title":"Pay and enrol","body":"Pay the first instalment to confirm your seat and get access to the learning platform.","date":"2026-12-07"}],"faqs":[{"question":"Will I get an IIT Hyderabad certificate?","answer":"Yes. Learners who meet the attendance and assessment requirements receive a certificate issued by the Centre for Continuing Education, IIT Hyderabad."}],"facultyIds":["f-menon"]}}]}],[["$","script","script-0",{"src":"/IIDummy/_next/static/chunks/2dcnudfsc4qvb.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0e0f2b","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$2",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pay the application fee · IIT Hyderabad Online"}],["$","meta","1",{"name":"description","content":"Online certificate, diploma, executive and faculty development programs from IIT Hyderabad, taught live by IITH faculty."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"property":"og:title","content":"Pay the application fee · IIT Hyderabad Online"}],["$","meta","4",{"property":"og:description","content":"Online certificate, diploma, executive and faculty development programs from IIT Hyderabad, taught live by IITH faculty."}],["$","meta","5",{"property":"og:site_name","content":"IIT Hyderabad Online"}],["$","meta","6",{"property":"og:locale","content":"en_IN"}],["$","meta","7",{"property":"og:image","content":"https://vkfolio.github.io/IIDummy/IIDummy/generated/og-default.webp"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf"]}]}]}],"$L10"]}],"isPartial":"$@11","staleTime":"$7","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$7","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$7","varyParams":"$14"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$7","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[43400,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"IconMark"]
+1c:I[94061,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"default"]
+1d:I[43036,["/IIDummy/_next/static/chunks/3l6bwague00l7.js"],"default"]
+5:null
+a:["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}]
+b:["$","meta","9",{"name":"twitter:title","content":"Pay the application fee · IIT Hyderabad Online"}]
+c:["$","meta","10",{"name":"twitter:description","content":"Online certificate, diploma, executive and faculty development programs from IIT Hyderabad, taught live by IITH faculty."}]
+d:["$","meta","11",{"name":"twitter:image","content":"https://vkfolio.github.io/IIDummy/IIDummy/generated/og-default.webp"}]
+e:["$","link","12",{"rel":"icon","href":"/IIDummy/favicon.svg"}]
+f:["$","$L1b","13",{}]
+10:["$","meta",null,{"name":"next-size-adjust","content":""}]
+12:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L1c",null,{"parallelRouterKey":"children","template":["$","$L1d",null,{}]}]]}]
+1a:true
+7:300
+7:C
+19:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+18:"$undefined"
+6:"$undefined"
